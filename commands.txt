@@ -1,4 +1,4 @@
-cd/Desktop/myproject/
+cd Desktop/myproject
 git init
 git add hello.txt
-git commit =m "Add hello.txt"
+git commit
